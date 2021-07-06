@@ -5,7 +5,7 @@ table2 as
 (select rewardsReceiptStatus, sum(purchasedItemCount) as total_number_of_items
 from table1 group by rewardsReceiptStatus)
 
-select rewardsReceiptStatus, max(total_number_of_items) as no_of_items from table2
+select rewardsReceiptStatus, max(total_number_of_items) as no_of_items from table2;
 
 
 
