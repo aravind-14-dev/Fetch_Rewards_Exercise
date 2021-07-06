@@ -5,5 +5,5 @@ table2 as
 (select rewardsReceiptStatus, avg(totalSpent) as average_spent
 from table1 group by rewardsReceiptStatus)
 
-select rewardsReceiptStatus, max(average_spend) as maximum_spent from table2
+select rewardsReceiptStatus, max(average_spend) as maximum_spent from table2;
 
