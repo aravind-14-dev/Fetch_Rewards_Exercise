@@ -10,7 +10,6 @@ Please confirm.
 2. Data Quality Issues:
 
 I found out the Data Quality issues by exploring the JSON files using Python. There are missing values and inconsistent data which need to be addressed. 
-The same issues would be translated to relational model as well. If we could solve the problems in JSON, it can be fixed in relational model either.
 
 3. Resolving Data Quality Issues:
 
