@@ -9,7 +9,7 @@ Please confirm.
 
 2. Data Quality Issues:
 
-I found out the Data Quality issues by exploring the JSON files using Python. There are missing values and inconsistent data which need to be addressed. 
+I found out the Data Quality issues by exploring the JSON files separately using Python. I explored the JSON files in the place of schema tables to simulate the same. There are missing values and inconsistent data which need to be addressed. 
 
 3. Resolving Data Quality Issues:
 
