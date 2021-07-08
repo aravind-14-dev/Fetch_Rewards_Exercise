@@ -4,11 +4,11 @@ The exercise has 4 sections which are maintained separately in 4 folders.
 
 # Section 1:
 
-It has an imsge file for relational schema and a text file for its description.
+It has an image file for relational schema and a text file for its description.
 
 # Section 2:
 
-It has 2 SQL files for bullet points 3 and 4 from the exercise.
+It has 2 SQL files written using MySQL for bullet points 3 and 4 from the exercise.
 
 # Section 3:
 
